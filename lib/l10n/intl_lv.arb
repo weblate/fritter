@@ -233,5 +233,21 @@
     "leaner_feeds_description": "Priekšskatījuma saites tvītos netiek rādītas",
     "exclusions_feed_label": "Neiekļaut ziņu plūsmā",
     "possibly_sensitive_profile": "Šis profils var ietvert potenciāli sensitīvus attēlus, valodu vai citu saturu. Vai tiešām vēlaties to apskatīt?",
-    "tweet_font_size_description": "Tvītu fonta izmērs"
+    "tweet_font_size_description": "Tvītu fonta izmērs",
+    "possibly_sensitive": "Potenciāli sensitīvs, aizskarošs",
+    "search_term": "Meklēšanas vaicājums",
+    "missing_page": "Trūkstoša lapa",
+    "option_confirm_close_label": "Apstiprināt aizvēršanu",
+    "x_api": "X API",
+    "twitter_account_types_label": "Konta tips",
+    "twitter_account_types_priority_to_regular": "Dot priekšroku parastajam kontam",
+    "error_from_twitter": "Kļūda no Twitter/X",
+    "x_client_transaction_id_provider": "x-client-transaction-id pakalpojumu sniedzējs",
+    "download_handling_type_directory": "Saglabāt mapē",
+    "open_app_settings": "Atvērt lietotnes iestatījumus",
+    "open_in_browser": "Atvērt pārlūkā",
+    "thumbnail_not_available": "Sīkattēls nav pieejams",
+    "could_not_contact_twitter": "Nevarēja izveidot savienojumu ar Twitter/X\nNevarēja sazināties ar Twitter/X",
+    "oops_something_went_wrong": "Ak nē! Kaut kas nogāja greizi 🥲",
+    "nbr_guest_accounts": "Ir {nbrGuestAccounts} viesu konti"
 }
